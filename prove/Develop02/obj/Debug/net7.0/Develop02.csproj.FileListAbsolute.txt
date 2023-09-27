@@ -1,0 +1,15 @@
+C:\Users\darni\OneDrive\Desktop\cse\THIS ONE THIS ONE THIS ONE\CSE-210-main\prove\Develop02\obj\Debug\net7.0\Develop02.csproj.AssemblyReference.cache
+C:\Users\darni\OneDrive\Desktop\cse\THIS ONE THIS ONE THIS ONE\CSE-210-main\prove\Develop02\obj\Debug\net7.0\Develop02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darni\OneDrive\Desktop\cse\THIS ONE THIS ONE THIS ONE\CSE-210-main\prove\Develop02\obj\Debug\net7.0\Develop02.AssemblyInfoInputs.cache
+C:\Users\darni\OneDrive\Desktop\cse\THIS ONE THIS ONE THIS ONE\CSE-210-main\prove\Develop02\obj\Debug\net7.0\Develop02.AssemblyInfo.cs
+C:\Users\darni\OneDrive\Desktop\cse\THIS ONE THIS ONE THIS ONE\CSE-210-main\prove\Develop02\obj\Debug\net7.0\Develop02.csproj.CoreCompileInputs.cache
+C:\Users\darni\OneDrive\Desktop\cse\THIS ONE THIS ONE THIS ONE\CSE-210-main\prove\Develop02\bin\Debug\net7.0\Develop02.exe
+C:\Users\darni\OneDrive\Desktop\cse\THIS ONE THIS ONE THIS ONE\CSE-210-main\prove\Develop02\bin\Debug\net7.0\Develop02.deps.json
+C:\Users\darni\OneDrive\Desktop\cse\THIS ONE THIS ONE THIS ONE\CSE-210-main\prove\Develop02\bin\Debug\net7.0\Develop02.runtimeconfig.json
+C:\Users\darni\OneDrive\Desktop\cse\THIS ONE THIS ONE THIS ONE\CSE-210-main\prove\Develop02\bin\Debug\net7.0\Develop02.dll
+C:\Users\darni\OneDrive\Desktop\cse\THIS ONE THIS ONE THIS ONE\CSE-210-main\prove\Develop02\bin\Debug\net7.0\Develop02.pdb
+C:\Users\darni\OneDrive\Desktop\cse\THIS ONE THIS ONE THIS ONE\CSE-210-main\prove\Develop02\obj\Debug\net7.0\Develop02.dll
+C:\Users\darni\OneDrive\Desktop\cse\THIS ONE THIS ONE THIS ONE\CSE-210-main\prove\Develop02\obj\Debug\net7.0\refint\Develop02.dll
+C:\Users\darni\OneDrive\Desktop\cse\THIS ONE THIS ONE THIS ONE\CSE-210-main\prove\Develop02\obj\Debug\net7.0\Develop02.pdb
+C:\Users\darni\OneDrive\Desktop\cse\THIS ONE THIS ONE THIS ONE\CSE-210-main\prove\Develop02\obj\Debug\net7.0\Develop02.genruntimeconfig.cache
+C:\Users\darni\OneDrive\Desktop\cse\THIS ONE THIS ONE THIS ONE\CSE-210-main\prove\Develop02\obj\Debug\net7.0\ref\Develop02.dll
