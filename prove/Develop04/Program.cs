@@ -5,13 +5,11 @@ Activity.Intro();
 public class Activity {
 
     public static void Intro() {
-        //I might have the menu go here? 
-        //What functionality can I add here to work inside the other classes?
+        
         string InputString = "None";
 
         while (InputString != "quit") {
 
-            //Console.Clear();
             Console.WriteLine("Welcome to the thing!");
             Console.WriteLine("");
             Console.WriteLine("1. Start Breathing Activity");
@@ -206,14 +204,11 @@ public class Activity {
             Console.Write("Think about it for....");
             Timers(9);
 
-            // Start the timer for 30 seconds
             timer = new Timer(TimerCallBack, null, duration * 1000, Timeout.Infinite);
 
-            // Start the input thread
             inputThread = new Thread(ReadUserInput);
             inputThread.Start();
 
-            // Wait for the input thread to finish
             Thread.Sleep(duration * 1000 + 4000);
         }
     }
